@@ -1,0 +1,21 @@
+polaris-console
+polaris-console-release
+polaris-console-release.tar.gz
+/node_modules
+/web/node_modules
+department.txt
+
+# Editor directories and files
+web/node_modules
+web/dist
+.idea
+department.txt
+log
+
+vendor
+.DS_Store
+
+polaris_console_package
+polaris-frontend.tar.gz
+.vscode
+polaris.bolt
